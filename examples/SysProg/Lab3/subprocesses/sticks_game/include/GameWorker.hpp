@@ -1,1 +1,0 @@
-// GameWorker class declaration

@@ -1,1 +1,0 @@
-// CompilerWorker class implementation
