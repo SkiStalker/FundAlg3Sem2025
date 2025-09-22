@@ -1,0 +1,8 @@
+**/*.a
+**/*.o
+**/*.exe
+**/.vscode
+**/*.out
+**/main
+my_examples/**
+**/build
