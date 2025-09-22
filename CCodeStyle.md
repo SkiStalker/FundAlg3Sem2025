@@ -66,12 +66,13 @@
             return -1;
         }
 
-        ptr = (int*)realloc((void*)ptr, sizeof(int) * 20);
-        if (!ptr) {
+        int* new_ptr = (int*)realloc((void*)ptr, sizeof(int) * 20);
+        if (!new_ptr) {
+            free(ptr);
             return -1;
         }
 
-        free(ptr);
+        free(new_ptr);
         return 0;
     }
     ```
