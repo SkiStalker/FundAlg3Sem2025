@@ -14,7 +14,7 @@
 7. [Примеры](#примеры)
 
 ## Важные ссылки
-- [Таблица с результатами сдачи]() <будет позже>
+- [Таблица с результатами сдачи](https://docs.google.com/spreadsheets/d/1W_74RL2Pgk0ALfUHxNuUOII2vM2tM0yxADYaYZ3zDH8/edit?gid=0#gid=0)
 
 ## Полезные ссылки
 - [Visual Studio Code](https://code.visualstudio.com/download)
